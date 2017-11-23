@@ -2,7 +2,7 @@
   <html lang="ja">
   <head>
   <meta charset="UTF-8">
-  <title>掲示板</title>
+  <title>レストラン検索</title>
   </head>
   <body>
     <h1>レストラン検索ページ</h1>
@@ -18,7 +18,15 @@
       <option value="4">2km以内</option>
       <option value="5">3km以内</option>
       <input type="submit" value="送信">
-      </form>>
+      </form>
   </section>
+  <br>
+  <br>
+  <center>
+      <a href="http://api.gnavi.co.jp/api/scope/" target="_blank">
+      <img src="http://api.gnavi.co.jp/api/img/credit/api_265_65.gif" width="265" height="65" border="0" alt="グルメ情報検索サイト　ぐるなび">
+      </a>
+  </center>
+      
   </body>
 </html>
